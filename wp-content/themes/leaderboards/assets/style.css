@@ -1,0 +1,406 @@
+html,body{
+	margin:0;
+	padding:0;
+	overflow-x:hidden;
+}
+
+body{
+	background:#0C0C0C;
+}
+
+.container{
+	padding-top:60px;
+		width:90%;
+	margin-left:5%;
+	margin-right:5%;
+}
+
+.blob1{
+	height: 220px;
+	width: 220px;
+	background-color: #168978;
+	border-radius: 50%;
+	position:fixed;
+	z-index:50;
+	filter:blur(200);
+}
+
+.navigation{
+	width: 100%;
+    height: 60px;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    position: fixed;
+    background: rgb(12 12 12 / 60%);
+    z-index: 500;
+    -webkit-backdrop-filter: blur(20px) saturate(100%);
+    backdrop-filter: blur(20px) saturate(100%);
+}
+
+.navigation-container{
+	width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.cover{
+	display:flex;
+	width:110%;
+	height:360px;
+	margin-left:-5%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center center;
+	position: relative;
+}
+
+.gradient{
+	background: linear-gradient(
+0deg, black, transparent);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+}
+
+p,h1,h2,h3,h4,h5,h6{
+	color:#FFF;
+}
+
+p.date{
+	font-family: Arial;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #9b9b9b;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: Poppins;
+}
+
+p{
+	font-family:Arial;
+}
+
+p.caption{
+	align-self: flex-end;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    z-index:200;
+}
+
+h1{
+	font-weight:300;
+}
+
+h5.name{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.pick{
+	width:110%;
+	margin-left:-5%;
+	background:#2e2e2e;
+	padding-bottom:16px;
+}
+
+.banner{
+	width:100%;
+	background:#FFF;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.banner p{
+	text-transform: uppercase;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.255em;
+	color: #000000;
+}
+
+.pick-tags{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    opacity:0.8;
+}
+
+.pick h2{
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	text-align: center;
+	margin-bottom: 16px;
+	margin-top:16px;
+}
+
+.pick h3{
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	letter-spacing: 0.1em;
+}
+
+.pick a.wp-block-button__link{
+	background: #FFFFFF;
+	border-radius: 8px;
+	width: 90%;
+	margin-left:5%;
+	margin-right:5%;
+	height: 45px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 18px;
+	color: #000000;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:16px;
+    transition:0.3s;
+}
+
+.pick a.wp-block-button__link:hover{
+	background:#FFFFFF;
+	opacity:0.8;
+	transition:0.3s;
+}
+
+.pick a.wp-block-button__link:active{
+	background:#FFFFFF;
+	opacity:0.5;
+	transition:0.3s;
+}
+
+.pick a{
+	text-decoration: none;
+}
+
+.item a.wp-block-button__link{
+	width: 90px;
+    height: 34px;
+    border-radius: 8px;
+    background: #FFF;
+    color: #000;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    margin-bottom: 8px;
+    justify-content: center;
+    align-self: center;
+    color: #000;
+    text-align: center;
+    align-items: center;
+}
+
+.item a.wp-block-button__link:hover{
+	background:#FFFFFF;
+	opacity:0.8;
+	transition:0.3s;
+}
+
+.item a.wp-block-button__link:active{
+	background:#FFFFFF;
+	opacity:0.5;
+	transition:0.3s;
+}
+
+.item a{
+	text-decoration: none;
+}
+
+.item .wp-block-buttons{
+	display: flex;
+	align-items: center;
+	flex-flow: column;
+}
+
+.logo{
+	width:100%;
+	height:24px;
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	margin-top:24px;
+	margin-bottom:0px;
+}
+
+.amazon{
+	background-image:url('/leaderboards/assets/logos/white/amazon.png');
+}
+
+
+
+
+
+.item{
+	width:100%;
+	display: flex;
+    justify-content: space-between;
+    padding-bottom: 32px;
+    padding-top: 32px;
+    border-bottom:1px solid #5c5c5c;
+}
+
+.item-icon{
+	height:64px;
+	width:64px;
+	border-radius:16px;
+	background:rgb(255 255 255 / 20%);
+	margin-right: 16px;
+	background-size:cover;
+}
+
+.button-mini{
+	width: 75px;
+    height: 34px;
+    border-radius: 8px;
+    background: #FFF;
+    color: #000;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    align-self: center;
+    display:flex;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+   	align-self:center;
+	justify-content: center;
+	align-self:center;
+	color:#000;
+}
+
+.button-mini p{
+	align-self:center;
+	justify-content: center;
+	align-self:center;
+	color:#000;
+}
+
+.item-left{
+	display: flex;
+	height: 64px;
+}
+
+.item-right{
+	display: flex;
+	margin-bottom: 6px;
+}
+
+.item-metadata{
+	display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-self: center;
+}
+
+.item-metadata h5{
+    line-height: 16px;
+    font-size: 16px;
+    font-weight: 100;
+    margin: 0;
+    font-family:Arial;
+}
+
+.item-metadata h6{
+	line-height: 32px;
+    font-size: 32px;
+    font-weight: 100;
+    margin: 0;
+    font-family:Arial;
+}
+
+
+
+
+
+
+/*//logos//*/
+
+.amazon-logo{
+	background-image: url(/leaderboards/wp-content/uploads/logos/amazon-logo.png);
+}
+
+.amazon{
+	background-image: url(/leaderboards/wp-content/uploads/logos/amazon.png);
+}
+
+
+.bigw{
+	background-image: url(/leaderboards/wp-content/uploads/logos/bigw.png);
+}
+
+.catch{
+	background-image: url(/leaderboards/wp-content/uploads/logos/catch.png);
+}
+
+.dicksmith{
+	background-image: url(/leaderboards/wp-content/uploads/logos/dicksmith.png);
+}
+
+.ebgames{
+	background-image: url(/leaderboards/wp-content/uploads/logos/ebgames.png);
+}
+
+.epicgames{
+	background-image: url(/leaderboards/wp-content/uploads/logos/epicgames.png);
+}
+
+.gamesmen{
+	background-image: url(/leaderboards/wp-content/uploads/logos/gamesmen.png);
+}
+
+.harveynorman{
+	background-image: url(/leaderboards/wp-content/uploads/logos/harveynorman.png);
+}
+
+.jbhifi{
+	background-image: url(/leaderboards/wp-content/uploads/logos/jbhifi.png);
+}
+
+.kogan{
+	background-image: url(/leaderboards/wp-content/uploads/logos/kogan.png);
+}
+
+.microsoftstore{
+	background-image: url(/leaderboards/wp-content/uploads/logos/microsoftstore.png);
+}
+
+.nintendo{
+	background-image: url(/leaderboards/wp-content/uploads/logos/nintendo.png);
+}
+
+.playstation{
+	background-image: url(/leaderboards/wp-content/uploads/logos/playstation.png);
+}
+
+.steam{
+	background-image: url(/leaderboards/wp-content/uploads/logos/steam.png);
+}
+
+.xbox{
+	background-image: url(/leaderboards/wp-content/uploads/logos/xbox.png);
+}

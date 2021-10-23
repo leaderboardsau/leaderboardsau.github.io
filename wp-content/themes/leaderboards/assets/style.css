@@ -9,10 +9,22 @@ body{
 }
 
 .container{
-	padding-top:60px;
-		width:90%;
-	margin-left:5%;
-	margin-right:5%;
+    display: flex;
+	padding-top: 60px;
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+}
+
+.post-block a{
+	text-decoration: none;
+}
+
+.main{
+	display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 700px;
 }
 
 .blob1{
@@ -75,6 +87,7 @@ p.date{
     margin: 0;
     padding-top: 5px;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -83,6 +96,11 @@ h1,h2,h3,h4,h5,h6{
 
 p{
 	font-family:Arial;
+}
+
+.copyright p{
+	line-height: 24px;
+    color: #919191;
 }
 
 p.caption{
@@ -95,6 +113,7 @@ p.caption{
 
 h1{
 	font-weight:300;
+	text-align: center;
 }
 
 h5.name{
@@ -102,6 +121,7 @@ h5.name{
 	font-weight: normal;
 	font-size: 16px;
 	line-height: 24px;
+	text-align: center;
 }
 
 .pick{
@@ -404,3 +424,9 @@ h5.name{
 .xbox{
 	background-image: url(https://www.leaderboards.com.au/wp-content/uploads/logos/xbox.png);
 }
+
+
+@media screen and (max-width: 800px){
+	.main{
+		width:90%;
+	}

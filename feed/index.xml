@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.leaderboards.com.au/</link>
 	<description>The only way to top this leaderboard? A good price. Find the cheapest products in Australia.</description>
-	<lastBuildDate>Sat, 23 Oct 2021 00:56:48 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Oct 2021 02:26:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -52,9 +52,7 @@
 
 </div>
 
-
-<div class="lists">
-
+<div class="list">
 
 <div class="item">
     <div class="item-left">
@@ -191,9 +189,7 @@
     </div>
 </div>
 
-
-</div>
-]]></content:encoded>
+</div>]]></content:encoded>
 					
 					<wfw:commentRss>https://www.leaderboards.com.au/the-cheapest-place-to-buy-pokemon-brilliant-diamond-and-pokemon-shining-pearl-in-australia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

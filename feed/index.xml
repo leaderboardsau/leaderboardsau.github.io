@@ -1,43 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Leaderboards Australia</title>
-    <meta property="og:title" content="Leaderboards Australia">
-    <meta property="”og:type”" content="”article”">
-	<link href="https://www.leaderboards.com.au/favicon.ico" rel="shortcut icon">
-	<link rel="icon" type="image/png" href="https://www.leaderboards.com.au/favicon-16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="https://www.leaderboards.com.au/favicon-32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="https://www.leaderboards.com.au/favicon-96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="https://www.leaderboards.com.au/favicon-192.png" sizes="192x192">
-	<link rel="apple-touch-icon" href="https://www.leaderboards.com.au/favicon-180.png" sizes="180x180">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
 
-    <link rel="stylesheet" href="https://www.leaderboards.com.au/wp-content/themes/leaderboards/assets/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com/">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <div class="navigation">
-        <div class="navigation-container">
-          <h5 class="name">Leaderboards Australia</h5>
-        </div>        
-    </div>
-    <div class="container">
-		<div class="main">
-<h1>The cheapest place to buy Pokémon Brilliant Diamond and Pokémon Shining Pearl in Australia</h1>
-        <p class="date">Checked October 22nd, 2021</p>
-          		        <div class="cover" style="background-image:url('https://www.leaderboards.com.au/wp-content/uploads/2021/10/brilliant-diamond-shining-pearl-169-en.jpeg');"></div>
-                <div class="entryy">
-		<div class="pick">
+<channel>
+	<title>Leaderboards Australia</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.leaderboards.com.au/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 23 Oct 2021 00:29:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>The cheapest place to buy Pokémon Brilliant Diamond and Pokémon Shining Pearl in Australia</title>
+		<link>https://www.leaderboards.com.au/the-cheapest-place-to-buy-pokemon-brilliant-diamond-and-pokemon-shining-pearl-in-australia/</link>
+					<comments>https://www.leaderboards.com.au/the-cheapest-place-to-buy-pokemon-brilliant-diamond-and-pokemon-shining-pearl-in-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Oct 2021 22:01:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.leaderboards.com.au/?p=38</guid>
+
+					<description><![CDATA[If at first you don’t succeed try, try and try again. Revealed during E3 2019, Deathloop is a first-person shooter where you play as an assassin named Cole who is currently stuck in a time loop.]]></description>
+										<content:encoded><![CDATA[<div class="pick">
     <div class="banner"><p>Our Pick</p></div>
           <div class="logo amazon-logo" role="img"></div>
           <h2>$68</h2>
-          <div class="pick-tags">
-<h3>FREE SHIPPING</h3>, <h3>FREE RETURNS</h3>
-</div>
+          <div class="pick-tags"><h3>FREE SHIPPING</h3>, <h3>FREE RETURNS</h3></div>
           
 
 <div class="wp-block-buttons">
@@ -196,9 +193,12 @@
 
 
 </div>
-	</div>      </div>
-	<div id="copyright">
-&copy; 2021 Leaderboards Australia</div>
-    </div>
-  </body>
-</html>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.leaderboards.com.au/the-cheapest-place-to-buy-pokemon-brilliant-diamond-and-pokemon-shining-pearl-in-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

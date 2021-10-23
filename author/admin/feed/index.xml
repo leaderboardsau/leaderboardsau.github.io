@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Leaderboards Australia</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<title>Leaderboards Team | Leaderboards Australia</title>
+	<atom:link href="http://localhost/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.leaderboards.com.au/</link>
 	<description>The only way to top this leaderboard? A good price. Find the cheapest products in Australia.</description>
 	<lastBuildDate>Sat, 23 Oct 2021 04:05:38 +0000</lastBuildDate>

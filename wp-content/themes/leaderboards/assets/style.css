@@ -98,6 +98,10 @@ p{
 	font-family:Arial;
 }
 
+.post-block{
+	padding-bottom:50px;
+}
+
 .copyright p{
 	line-height: 24px;
     color: #919191;
@@ -176,6 +180,10 @@ h5.name{
 	letter-spacing: 0.1em;
 }
 
+.pick .wp-block-button{
+	width:100%;
+}
+
 .pick a.wp-block-button__link{
 	background: #FFFFFF;
 	border-radius: 8px;
@@ -248,10 +256,10 @@ h5.name{
 	text-decoration: none;
 }
 
-.item .wp-block-buttons{
-	display: flex;
-	align-items: center;
-	flex-flow: column;
+.wp-block-buttons{
+	display: flex !important;
+	align-items: center !important;
+	flex-flow: column !important;
 }
 
 .logo{

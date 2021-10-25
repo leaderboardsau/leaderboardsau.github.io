@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.leaderboards.com.au/</loc>
-		<lastmod>2021-10-23T04:05:38+00:00</lastmod>
+		<lastmod>2021-10-25T09:22:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.leaderboards.com.au/the-cheapest-place-to-buy-pokemon-brilliant-diamond-and-pokemon-shining-pearl-in-australia/</loc>
@@ -18,6 +18,14 @@
 		<image:image>
 			<image:loc>https://www.leaderboards.com.au/wp-content/uploads/2021/10/airpods-3rd-generation__gfzix8dj5auu_og.png</image:loc>
 			<image:title><![CDATA[airpods-3rd-generation__gfzix8dj5auu_og]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.leaderboards.com.au/gta-trilogy-cheapest-bargain-copy-lowest-price/</loc>
+		<lastmod>2021-10-25T09:22:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.leaderboards.com.au/wp-content/uploads/2021/10/gtatrilogy.jpg</image:loc>
+			<image:title><![CDATA[gtatrilogy]]></image:title>
 		</image:image>
 	</url>
 </urlset>

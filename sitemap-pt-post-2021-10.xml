@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.leaderboards.com.au/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="October 24, 2021 1:14 am" -->
+<!-- generated-on="October 25, 2021 9:23 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://www.leaderboards.com.au/gta-trilogy-cheapest-bargain-copy-lowest-price/</loc>
+		<lastmod>2021-10-25T09:22:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
 		<loc>https://www.leaderboards.com.au/the-cheapest-apple-airpods-gen-3-2021-model-in-australia/</loc>
 		<lastmod>2021-10-23T04:05:38+00:00</lastmod>
 		<changefreq>monthly</changefreq>
@@ -12,4 +18,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: d2d72efbef924b3869b79eebc9a495a5; Queries for sitemap: 4; Total queries: 15; Seconds: 0; Memory for sitemap: 0MB; Total memory: 4.5MB -->
+</urlset><!-- Request ID: c5b4c1840d603c096a2d6590d74f879f; Queries for sitemap: 4; Total queries: 15; Seconds: 0.03; Memory for sitemap: 0MB; Total memory: 4.5MB -->
